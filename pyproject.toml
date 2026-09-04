@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "toymark"
+version = "0.1.0"
+description = "A tiny calculator for learning CI/CD"
+requires-python = ">=3.8"
